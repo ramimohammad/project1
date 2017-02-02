@@ -1,0 +1,23 @@
+{
+    "name": "root/project1",
+    "description": "test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rami Mohammad",
+            "email": "aminrami1991@gmail.com"
+        }
+    ],
+ "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packagist.in.vardot.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/yaml": "v3.2.2"
+        
+    }
+}
